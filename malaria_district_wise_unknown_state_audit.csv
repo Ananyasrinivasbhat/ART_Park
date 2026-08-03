@@ -1,0 +1,1424 @@
+year,state,district,total_cases,total_deaths,state_is_unknown
+2000,Unknown,Visakhapatanam,16163,2,True
+2000,Unknown,Pashchim Champaran,4,0,True
+2000,Unknown,Dantewada,20569,4,True
+2000,Unknown,Kabirdham,1432,0,True
+2000,Unknown,Kanker,69931,7,True
+2000,Unknown,Haveli,2415,0,True
+2000,Unknown,New Delhi,2631,0,True
+2000,Unknown,Doda,231,0,True
+2000,Unknown,Jammu,347,0,True
+2000,Unknown,Kathua,84,0,True
+2000,Unknown,Poonch,477,0,True
+2000,Unknown,Rajouri,1748,0,True
+2000,Unknown,Udhampur,153,0,True
+2000,Unknown,A.M.U. Kembhavi#,440,0,True
+2000,Unknown,Thiruvananthapuram,179,1,True
+2000,Unknown,Khargone,2100,0,True
+2000,Unknown,Mumbai,11222,5,True
+2000,Unknown,Garo Hills,7052,5,True
+2000,Unknown,Khasi Hills,2654,2,True
+2000,Unknown,Chhimtuipui#,1211,2,True
+2000,Unknown,Pondicherry,118,0,True
+2000,Unknown,Aranthangi#,26,0,True
+2000,Unknown,Cheyyar#,82,0,True
+2000,Unknown,Dharapuram#,5,0,True
+2000,Unknown,Kanchipuram,9,0,True
+2000,Unknown,Kovilpatti#,42,0,True
+2000,Unknown,Palani#,11,0,True
+2000,Unknown,Paramakudi#,105,0,True
+2000,Unknown,Poonamallee#,1605,0,True
+2000,Unknown,Ramanathapuram,814,0,True
+2000,Unknown,Sivakasi#,24,0,True
+2000,Unknown,Tuticorin,1313,0,True
+2000,Unknown,Villupuram,168,0,True
+2000,Unknown,Kushi Nagar,168,0,True
+2000,Unknown,Maharajganj,139,0,True
+2000,Unknown,Sant Kabeer Nagar,0,0,True
+2000,Unknown,Shravasti,19,0,True
+2000,Unknown,Siddharth Nagar,47,0,True
+2000,Unknown,Udam Singh Nagar,805,0,True
+2000,Unknown,Arambagh#,163,0,True
+2000,Unknown,Barrackpore#,4,0,True
+2000,Unknown,Chandan Nagar#,22,0,True
+2000,Unknown,Contai#,350,0,True
+2000,Unknown,Dinajpur Dakshin,148,0,True
+2000,Unknown,Dinajpur Uttar,230,0,True
+2000,Unknown,Ghatal#,87,0,True
+2000,Unknown,Jangipur (N)#,391,0,True
+2000,Unknown,Kalna#,39,0,True
+2000,Unknown,Kandi#,109,0,True
+2000,Unknown,Katwa#,14,0,True
+2000,Unknown,Kmuho#,412,0,True
+2000,Unknown,Maldah,793,0,True
+2000,Unknown,Midnapur,1582,0,True
+2000,Unknown,Serampore#,21,0,True
+2000,Unknown,Tamluk#,598,1,True
+2000,Unknown,Uluberia#,370,0,True
+2000,Unknown,Vishnupur#,127,3,True
+2001,Unknown,Visakhapatanam,17124,0,True
+2001,Unknown,Pashchim Champaran,0,0,True
+2001,Unknown,Dantewada,35236,3,True
+2001,Unknown,Kabirdham,1543,0,True
+2001,Unknown,Kanker,37895,1,True
+2001,Unknown,Haveli,848,0,True
+2001,Unknown,New Delhi,1484,0,True
+2001,Unknown,Dohad,2531,0,True
+2001,Unknown,Doda,6,0,True
+2001,Unknown,Jammu,273,0,True
+2001,Unknown,Kathua,16,0,True
+2001,Unknown,Poonch,208,0,True
+2001,Unknown,Rajouri,331,0,True
+2001,Unknown,Udhampur,77,0,True
+2001,Unknown,A.M.U. Kembhavi#,826,0,True
+2001,Unknown,Thiruvananthapuram,91,1,True
+2001,Unknown,Khargone,1194,0,True
+2001,Unknown,Khasi Hills,2668,5,True
+2001,Unknown,Chhimtuipui#,1319,1,True
+2001,Unknown,Mass#,0,0,True
+2001,Unknown,Pondicherry,88,0,True
+2001,Unknown,Aranthangi#,33,0,True
+2001,Unknown,Cheyyar#,84,0,True
+2001,Unknown,Dharapuram#,0,0,True
+2001,Unknown,Kanchipuram,6,0,True
+2001,Unknown,Kovilpatti#,42,0,True
+2001,Unknown,Palani#,2,0,True
+2001,Unknown,Paramakudi#,68,0,True
+2001,Unknown,Poonamallee#,1457,0,True
+2001,Unknown,Ramanathapuram,809,0,True
+2001,Unknown,Sivakasi#,0,0,True
+2001,Unknown,Tuticorin,1079,0,True
+2001,Unknown,Villupuram,125,0,True
+2001,Unknown,Kushi Nagar,169,0,True
+2001,Unknown,Maharajganj,202,0,True
+2001,Unknown,Sant Kabeer Nagar,32,0,True
+2001,Unknown,Shravasti,51,0,True
+2001,Unknown,Siddharth Nagar,84,0,True
+2001,Unknown,Udam Singh Nagar,695,0,True
+2001,Unknown,Arambagh#,241,0,True
+2001,Unknown,Barrackpore#,3,0,True
+2001,Unknown,Chandan Nagar#,18,0,True
+2001,Unknown,Contai#,333,0,True
+2001,Unknown,Dinajpur Dakshin,121,1,True
+2001,Unknown,Dinajpur Uttar,120,0,True
+2001,Unknown,Ghatal#,112,0,True
+2001,Unknown,Jangipur (N)#,460,0,True
+2001,Unknown,Kalna#,11,0,True
+2001,Unknown,Kandi#,309,0,True
+2001,Unknown,Katwa#,15,0,True
+2001,Unknown,Kmuho#,226,0,True
+2001,Unknown,Maldah,1055,1,True
+2001,Unknown,Midnapur,2840,1,True
+2001,Unknown,Serampore#,19,0,True
+2001,Unknown,Tamluk#,475,0,True
+2001,Unknown,Uluberia#,335,0,True
+2001,Unknown,Vishnupur#,86,0,True
+2002,Unknown,Visakhapatanam,11816,0,True
+2002,Unknown,Pashchim Champaran,1,0,True
+2002,Unknown,Dantewada,32322,0,True
+2002,Unknown,Kabirdham,1313,0,True
+2002,Unknown,Kanker,24876,0,True
+2002,Unknown,Haveli,493,0,True
+2002,Unknown,New Delhi,694,0,True
+2002,Unknown,Dohad,2713,0,True
+2002,Unknown,Doda,12,0,True
+2002,Unknown,Jammu,47,0,True
+2002,Unknown,Kathua,13,0,True
+2002,Unknown,Poonch,110,0,True
+2002,Unknown,Rajouri,163,0,True
+2002,Unknown,Udhampur,73,0,True
+2002,Unknown,Umcp Jammu#,36,0,True
+2002,Unknown,Saraikela Kharsawan,2526,0,True
+2002,Unknown,A.M.U. Kembhavi#,1270,0,True
+2002,Unknown,Thiruvananthapuram,192,1,True
+2002,Unknown,Khargone,802,1,True
+2002,Unknown,Saiha,765,0,True
+2002,Unknown,Pondicherry,81,0,True
+2002,Unknown,Aranthangi#,26,0,True
+2002,Unknown,Cheyyar#,115,0,True
+2002,Unknown,Dharapuram#,8,0,True
+2002,Unknown,Kanchipuram,16,0,True
+2002,Unknown,Kovilpatti#,97,0,True
+2002,Unknown,Palani#,9,0,True
+2002,Unknown,Paramakudi#,111,0,True
+2002,Unknown,Poonamallee#,817,0,True
+2002,Unknown,Ramanathapuram,958,0,True
+2002,Unknown,Sivakasi#,21,0,True
+2002,Unknown,Tuticorin,1029,0,True
+2002,Unknown,Villupuram,197,0,True
+2002,Unknown,Kushi Nagar,171,0,True
+2002,Unknown,Maharajganj,81,0,True
+2002,Unknown,Sant Kabeer Nagar,27,0,True
+2002,Unknown,Shravasti,0,0,True
+2002,Unknown,Siddharth Nagar,185,0,True
+2002,Unknown,Udam Singh Nagar,692,0,True
+2002,Unknown,Arambagh#,37,1,True
+2002,Unknown,Barrackpore#,5,0,True
+2002,Unknown,Chandan Nagar#,14,0,True
+2002,Unknown,Contai#,235,0,True
+2002,Unknown,Dinajpur Dakshin,88,0,True
+2002,Unknown,Dinajpur Uttar,128,0,True
+2002,Unknown,Ghatal#,193,0,True
+2002,Unknown,Jangipur (N)#,390,0,True
+2002,Unknown,Kalna#,20,0,True
+2002,Unknown,Kandi#,283,0,True
+2002,Unknown,Katwa#,15,0,True
+2002,Unknown,Kmuho#,25355,1,True
+2002,Unknown,Maldah,1439,0,True
+2002,Unknown,Midnapur,4080,1,True
+2002,Unknown,Serampore#,19,0,True
+2002,Unknown,Tamluk#,494,0,True
+2002,Unknown,Uluberia#,250,0,True
+2002,Unknown,Vishnupur#,116,3,True
+2003,Unknown,Visakhapatanam,12597,0,True
+2003,Unknown,Pashchim Champaran,6,0,True
+2003,Unknown,Dantewada,26025,1,True
+2003,Unknown,Kabirdham,812,0,True
+2003,Unknown,Kanker,27034,0,True
+2003,Unknown,Haveli,468,0,True
+2003,Unknown,New Delhi,839,0,True
+2003,Unknown,Dohad,6718,2,True
+2003,Unknown,Doda,32,0,True
+2003,Unknown,Jammu,52,0,True
+2003,Unknown,Kathua,18,0,True
+2003,Unknown,Poonch,89,0,True
+2003,Unknown,Rajouri,93,0,True
+2003,Unknown,Udhampur,14,0,True
+2003,Unknown,Umcp Jammu#,22,0,True
+2003,Unknown,Saraikela Kharsawan,2525,0,True
+2003,Unknown,A.M.U. Kembhavi#,769,0,True
+2003,Unknown,Thiruvananthapuram,177,0,True
+2003,Unknown,Khargone,954,0,True
+2003,Unknown,Saiha,933,0,True
+2003,Unknown,Pondicherry,45,0,True
+2003,Unknown,Aranthangi#,18,0,True
+2003,Unknown,Cheyyar#,112,0,True
+2003,Unknown,Dharapuram#,10,0,True
+2003,Unknown,Kanchipuram,10,0,True
+2003,Unknown,Kovilpatti#,194,0,True
+2003,Unknown,Palani#,6,0,True
+2003,Unknown,Paramakudi#,132,0,True
+2003,Unknown,Poonamallee#,1082,0,True
+2003,Unknown,Ramanathapuram,6149,0,True
+2003,Unknown,Sivakasi#,9,0,True
+2003,Unknown,Tuticorin,1594,0,True
+2003,Unknown,Villupuram,216,0,True
+2003,Unknown,Kushi Nagar,170,0,True
+2003,Unknown,Maharajganj,61,0,True
+2003,Unknown,Sant Kabeer Nagar,0,0,True
+2003,Unknown,Shravasti,76,0,True
+2003,Unknown,Siddharth Nagar,240,0,True
+2003,Unknown,Udam Singh Nagar,773,0,True
+2003,Unknown,Arambagh#,14,1,True
+2003,Unknown,Barrackpore#,3,0,True
+2003,Unknown,Chandan Nagar#,11,0,True
+2003,Unknown,Contai#,89,0,True
+2003,Unknown,Dinajpur Dakshin,262,0,True
+2003,Unknown,Dinajpur Uttar,118,0,True
+2003,Unknown,Ghatal#,43,0,True
+2003,Unknown,Howrah Municipality#,0,0,True
+2003,Unknown,Jangipur (N)#,308,3,True
+2003,Unknown,Kalna#,11,1,True
+2003,Unknown,Kandi#,152,0,True
+2003,Unknown,Katwa#,8,0,True
+2003,Unknown,Maldah,706,0,True
+2003,Unknown,Medinipur East,3476,0,True
+2003,Unknown,Serampore#,36,0,True
+2003,Unknown,Tamluk#,493,0,True
+2003,Unknown,Uluberia#,198,1,True
+2003,Unknown,Vishnupur#,67,0,True
+2004,Unknown,Visakhapatanam,9894,0,True
+2004,Unknown,Pashchim Champaran,14,0,True
+2004,Unknown,Dantewada,38425,0,True
+2004,Unknown,Kabirdham,1206,0,True
+2004,Unknown,Kanker,23183,0,True
+2004,Unknown,Haveli,787,0,True
+2004,Unknown,New Delhi,1316,0,True
+2004,Unknown,Dohad,32107,3,True
+2004,Unknown,Doda,19,0,True
+2004,Unknown,Jammu,33,0,True
+2004,Unknown,Kathua,18,0,True
+2004,Unknown,Poonch,66,0,True
+2004,Unknown,Rajouri,80,0,True
+2004,Unknown,Udhampur,14,0,True
+2004,Unknown,Umcp Jammu#,20,0,True
+2004,Unknown,Saraikela Kharsawan,3810,0,True
+2004,Unknown,A.M.U. Kembhavi#,69,0,True
+2004,Unknown,Thiruvananthapuram,233,1,True
+2004,Unknown,Khargone,1399,0,True
+2004,Unknown,Khasi Hills,2227,5,True
+2004,Unknown,Saiha,1426,0,True
+2004,Unknown,Pondicherry,34,0,True
+2004,Unknown,Aranthangi#,25,0,True
+2004,Unknown,Cheyyar#,69,0,True
+2004,Unknown,Dharapuram#,8,0,True
+2004,Unknown,Kanchipuram,14,0,True
+2004,Unknown,Kovilpatti#,371,0,True
+2004,Unknown,Palani#,12,0,True
+2004,Unknown,Paramakudi#,283,0,True
+2004,Unknown,Ramanathapuram,4124,0,True
+2004,Unknown,Sivakasi#,2,0,True
+2004,Unknown,Tuticorin,2181,0,True
+2004,Unknown,Villupuram,289,0,True
+2004,Unknown,Kushi Nagar,158,0,True
+2004,Unknown,Maharajganj,36,0,True
+2004,Unknown,Sant Kabeer Nagar,0,0,True
+2004,Unknown,Shravasti,0,0,True
+2004,Unknown,Siddharth Nagar,216,0,True
+2004,Unknown,Udam Singh Nagar,480,0,True
+2004,Unknown,Arambagh#,21,0,True
+2004,Unknown,Barrackpore#,5,0,True
+2004,Unknown,Chandan Nagar#,8,1,True
+2004,Unknown,Contai#,119,0,True
+2004,Unknown,Dinajpur Dakshin,364,2,True
+2004,Unknown,Dinajpur Uttar,123,0,True
+2004,Unknown,Ghatal#,78,0,True
+2004,Unknown,Jangipur (N)#,501,3,True
+2004,Unknown,Kalna#,17,0,True
+2004,Unknown,Kandi#,219,0,True
+2004,Unknown,Katwa#,4,0,True
+2004,Unknown,Kmuho#,156,1,True
+2004,Unknown,Kolkata Urban#,11322,1,True
+2004,Unknown,Maldah,1106,1,True
+2004,Unknown,Medinipur West,4190,7,True
+2004,Unknown,Serampore#,19,0,True
+2004,Unknown,Tamluk#,688,4,True
+2004,Unknown,Uluberia#,274,1,True
+2004,Unknown,Vishnupur#,61,2,True
+2005,Unknown,Visakhapatanam,11053,0,True
+2005,Unknown,Pashchim Champaran,3,0,True
+2005,Unknown,Dantewada,30515,0,True
+2005,Unknown,Kabirdham,2096,0,True
+2005,Unknown,Kanker,25277,0,True
+2005,Unknown,Haveli,1166,0,True
+2005,Unknown,New Delhi,1133,0,True
+2005,Unknown,Dohad,22783,0,True
+2005,Unknown,Doda,5,0,True
+2005,Unknown,Jammu,54,0,True
+2005,Unknown,Kathua,10,0,True
+2005,Unknown,Poonch,59,0,True
+2005,Unknown,Rajouri,78,0,True
+2005,Unknown,Udhampur,35,0,True
+2005,Unknown,Umcp Jammu#,27,0,True
+2005,Unknown,Saraikela Kharsawan,6763,0,True
+2005,Unknown,A.M.U. Kembhavi#,228,0,True
+2005,Unknown,Thiruvananthapuram,106,0,True
+2005,Unknown,Khargone,1372,0,True
+2005,Unknown,Saiha,1638,3,True
+2005,Unknown,Pondicherry,38,0,True
+2005,Unknown,Aranthangi#,19,0,True
+2005,Unknown,Cheyyar#,70,0,True
+2005,Unknown,Dharapuram#,1,0,True
+2005,Unknown,Kanchipuram,10,0,True
+2005,Unknown,Kovilpatti#,367,0,True
+2005,Unknown,Palani#,13,0,True
+2005,Unknown,Paramakudi#,352,0,True
+2005,Unknown,Ramanathapuram,6347,0,True
+2005,Unknown,Sivakasi#,2,0,True
+2005,Unknown,Tuticorin,1856,0,True
+2005,Unknown,Villupuram,343,0,True
+2005,Unknown,Kushi Nagar,138,0,True
+2005,Unknown,Maharajganj,63,0,True
+2005,Unknown,Sant Kabeer Nagar,6,0,True
+2005,Unknown,Shravasti,1,0,True
+2005,Unknown,Siddharth Nagar,290,0,True
+2005,Unknown,Udam Singh Nagar,476,0,True
+2005,Unknown,Dinajpur Dakshin,263,2,True
+2005,Unknown,Dinajpur Uttar,107,0,True
+2005,Unknown,Kmuho#,153,1,True
+2005,Unknown,Kolkata Urban#,8389,0,True
+2005,Unknown,Maldah,1299,0,True
+2005,Unknown,Medinipur East,1082,0,True
+2006,Unknown,Visakhapatanam,5984,0,True
+2006,Unknown,Pashchim Champaran,3,0,True
+2006,Unknown,Dantewada,41257,0,True
+2006,Unknown,Kabirdham,1895,0,True
+2006,Unknown,Kanker,21777,0,True
+2006,Unknown,Haveli,3786,0,True
+2006,Unknown,New Delhi,928,0,True
+2006,Unknown,Dohad,3977,0,True
+2006,Unknown,Doda,3,0,True
+2006,Unknown,Jammu,42,0,True
+2006,Unknown,Kathua,16,0,True
+2006,Unknown,Poonch,40,0,True
+2006,Unknown,Rajouri,24,0,True
+2006,Unknown,Udhampur,28,0,True
+2006,Unknown,Umcp Jammu#,11,0,True
+2006,Unknown,Saraikela Kharsawan,6032,0,True
+2006,Unknown,A.M.U. Kembhavi#,182,0,True
+2006,Unknown,Thiruvananthapuram,99,0,True
+2006,Unknown,Khargone,2594,0,True
+2006,Unknown,Pondicherry,34,0,True
+2006,Unknown,Nagar,104,0,True
+2006,Unknown,Aranthangi#,6,0,True
+2006,Unknown,Cheyyar#,129,0,True
+2006,Unknown,Dharapuram#,0,0,True
+2006,Unknown,Kanchipuram,5,0,True
+2006,Unknown,Kovilpatti#,650,0,True
+2006,Unknown,Palani#,3,0,True
+2006,Unknown,Paramakudi#,165,0,True
+2006,Unknown,Ramanathapuram,2709,0,True
+2006,Unknown,Sivakasi#,2,0,True
+2006,Unknown,Tuticorin,803,0,True
+2006,Unknown,Villupuram,341,0,True
+2006,Unknown,Kushi Nagar,100,0,True
+2006,Unknown,Maharajganj,15,0,True
+2006,Unknown,Sant Kabeer Nagar,7,0,True
+2006,Unknown,Shravasti,5,0,True
+2006,Unknown,Siddharth Nagar,288,0,True
+2006,Unknown,Udam Singh Nagar,518,0,True
+2006,Unknown,Dinajpur Dakshin,293,1,True
+2006,Unknown,Dinajpur Uttar,129,0,True
+2006,Unknown,Kolkata Urban#,5894,0,True
+2006,Unknown,Maldah,1510,1,True
+2006,Unknown,Medinipur East,964,0,True
+2006,Unknown,South Andamans,1024,0,True
+2007,Unknown,Visakhapatanam,5251,0,True
+2007,Unknown,Lower Dibang Valley,4773,7,True
+2007,Unknown,Pashchim Champaran,1,0,True
+2007,Unknown,Dantewada,14850,0,True
+2007,Unknown,Kabirdham,1841,0,True
+2007,Unknown,Kanker,15532,0,True
+2007,Unknown,Haveli,3780,0,True
+2007,Unknown,New Delhi,182,0,True
+2007,Unknown,Dohad,1938,1,True
+2007,Unknown,Doda,6,0,True
+2007,Unknown,Jammu,45,0,True
+2007,Unknown,Kathua,15,0,True
+2007,Unknown,Poonch,74,1,True
+2007,Unknown,Rajouri,16,0,True
+2007,Unknown,Udhampur,75,0,True
+2007,Unknown,Umcp Jammu#,9,0,True
+2007,Unknown,Saraikela Kharsawan,5403,0,True
+2007,Unknown,A.M.U. Kembhavi#,42,0,True
+2007,Unknown,Thiruvananthapuram,145,0,True
+2007,Unknown,Khargone,2726,0,True
+2007,Unknown,Saiha,754,9,True
+2007,Unknown,Bhandari#,357,0,True
+2007,Unknown,Chantgya#,245,0,True
+2007,Unknown,Chazjiba#,138,0,True
+2007,Unknown,M'Lemba#,503,0,True
+2007,Unknown,Pfutsero#,43,0,True
+2007,Unknown,Tizit#,136,0,True
+2007,Unknown,Pondicherry,57,0,True
+2007,Unknown,Nagar,47,0,True
+2007,Unknown,Aranthangi#,6,0,True
+2007,Unknown,Cheyyar#,119,0,True
+2007,Unknown,Dharapuram#,0,0,True
+2007,Unknown,Kanchipuram,1,0,True
+2007,Unknown,Kovilpatti#,407,0,True
+2007,Unknown,Palani#,19,0,True
+2007,Unknown,Paramakudi#,206,0,True
+2007,Unknown,Ramanathapuram,3332,0,True
+2007,Unknown,Sivakasi#,1,0,True
+2007,Unknown,Tuticorin,482,0,True
+2007,Unknown,Villupuram,448,0,True
+2007,Unknown,Kushi Nagar,93,0,True
+2007,Unknown,Maharajganj,31,0,True
+2007,Unknown,Sant Kabeer Nagar,18,0,True
+2007,Unknown,Shravasti,11,0,True
+2007,Unknown,Siddharth Nagar,271,0,True
+2007,Unknown,Udam Singh Nagar,577,0,True
+2007,Unknown,Dinajpur Dakshin,276,0,True
+2007,Unknown,Dinajpur Uttar,84,0,True
+2007,Unknown,Kmuho#,3292,1,True
+2007,Unknown,Maldah,1734,0,True
+2007,Unknown,Medinipur East,650,0,True
+2007,Unknown,Medinipur West,5014,4,True
+2007,Unknown,South Andamans,627,0,True
+2008,Unknown,Visakhapatanam,4949,0,True
+2008,Unknown,Lower Dibang Valley,2718,5,True
+2008,Unknown,Pashchim Champaran,0,0,True
+2008,Unknown,Dantewada,22306,0,True
+2008,Unknown,Kabirdham,863,0,True
+2008,Unknown,Kanker,12720,0,True
+2008,Unknown,Haveli,3037,0,True
+2008,Unknown,New Delhi,253,0,True
+2008,Unknown,Dohad,1471,0,True
+2008,Unknown,Doda,4,0,True
+2008,Unknown,Jammu,46,0,True
+2008,Unknown,Kathua,16,1,True
+2008,Unknown,Kishtwar,1,0,True
+2008,Unknown,Poonch,93,0,True
+2008,Unknown,Rajouri,25,0,True
+2008,Unknown,Ramban,0,0,True
+2008,Unknown,Reasi,4,0,True
+2008,Unknown,Samba,3,0,True
+2008,Unknown,Udhampur,13,0,True
+2008,Unknown,Umcp Jammu#,12,0,True
+2008,Unknown,Saraikela Kharsawan,6537,3,True
+2008,Unknown,A.M.U. Kembhavi#,95,0,True
+2008,Unknown,Thiruvananthapuram,81,0,True
+2008,Unknown,Khargone,1317,0,True
+2008,Unknown,Imphal Urban#,25,0,True
+2008,Unknown,Saiha,823,7,True
+2008,Unknown,Pondicherry,43,0,True
+2008,Unknown,Nagar,73,0,True
+2008,Unknown,Aranthangi#,5,0,True
+2008,Unknown,Cheyyar#,79,0,True
+2008,Unknown,Dharapuram#,0,0,True
+2008,Unknown,Kanchipuram,4,0,True
+2008,Unknown,Kovilpatti#,259,0,True
+2008,Unknown,Palani#,6,0,True
+2008,Unknown,Paramakudi#,275,0,True
+2008,Unknown,Ramanathapuram,2567,0,True
+2008,Unknown,Sivakasi#,1,0,True
+2008,Unknown,Tuticorin,537,0,True
+2008,Unknown,Villupuram,116,0,True
+2008,Unknown,Kushi Nagar,108,0,True
+2008,Unknown,Maharajganj,20,0,True
+2008,Unknown,Sant Kabeer Nagar,23,0,True
+2008,Unknown,Shravasti,16,0,True
+2008,Unknown,Siddharth Nagar,280,0,True
+2008,Unknown,Udam Singh Nagar,623,0,True
+2008,Unknown,Dinajpur Dakshin,251,0,True
+2008,Unknown,Dinajpur Uttar,166,2,True
+2008,Unknown,Kmuho#,5071,2,True
+2008,Unknown,Maldah,2149,3,True
+2008,Unknown,Medinipur East,860,1,True
+2008,Unknown,South Andamans,463,0,True
+2009,Unknown,Visakhapatanam,5863,0,True
+2009,Unknown,Lower Dibang Valley,3168,3,True
+2009,Unknown,Pashchim Champaran,0,0,True
+2009,Unknown,Dantewada,31119,1,True
+2009,Unknown,Kabirdham,1293,0,True
+2009,Unknown,Kanker,10349,1,True
+2009,Unknown,Haveli,3408,0,True
+2009,Unknown,New Delhi,169,0,True
+2009,Unknown,Dohad,3200,0,True
+2009,Unknown,Doda,0,0,True
+2009,Unknown,Jammu,97,0,True
+2009,Unknown,Kathua,26,0,True
+2009,Unknown,Kishtwar,6,0,True
+2009,Unknown,Poonch,48,0,True
+2009,Unknown,Rajouri,133,0,True
+2009,Unknown,Ramban,0,0,True
+2009,Unknown,Reasi,13,0,True
+2009,Unknown,Samba,4,0,True
+2009,Unknown,Udhampur,10,0,True
+2009,Unknown,Umcp Jammu#,9,0,True
+2009,Unknown,Saraikela Kharsawan,6462,0,True
+2009,Unknown,A.M.U. Kembhavi#,93,0,True
+2009,Unknown,Thiruvananthapuram,188,0,True
+2009,Unknown,Khargone,865,0,True
+2009,Unknown,Imphal Urban#,33,0,True
+2009,Unknown,Pondicherry,46,0,True
+2009,Unknown,Nagar,42,0,True
+2009,Unknown,Aranthangi#,1,0,True
+2009,Unknown,Cheyyar#,61,0,True
+2009,Unknown,Dharapuram#,0,0,True
+2009,Unknown,Kanchipuram,2,0,True
+2009,Unknown,Kovilpatti#,130,0,True
+2009,Unknown,Palani#,6,0,True
+2009,Unknown,Paramakudi#,159,0,True
+2009,Unknown,Ramanathapuram,1767,0,True
+2009,Unknown,Sivakasi#,2,0,True
+2009,Unknown,Tuticorin,341,0,True
+2009,Unknown,Villupuram,48,0,True
+2009,Unknown,Kushi Nagar,110,0,True
+2009,Unknown,Maharajganj,33,0,True
+2009,Unknown,Sant Kabeer Nagar,5,0,True
+2009,Unknown,Shravasti,33,0,True
+2009,Unknown,Siddharth Nagar,283,0,True
+2009,Unknown,Udam Singh Nagar,491,0,True
+2009,Unknown,Dinajpur Dakshin,290,0,True
+2009,Unknown,Dinajpur Uttar,178,0,True
+2009,Unknown,Kmuho#,7637,0,True
+2009,Unknown,Medinipur East,1163,1,True
+2009,Unknown,Medinipur West,4212,6,True
+2009,Unknown,South Andamans,699,0,True
+2010,Unknown,Pashchim Champaran,0,0,True
+2010,Unknown,Dantewada,31732,7,True
+2010,Unknown,Kabirdham,2234,1,True
+2010,Unknown,Kanker,8029,0,True
+2010,Unknown,Haveli,5703,0,True
+2010,Unknown,New Delhi,251,0,True
+2010,Unknown,Dohad,7265,0,True
+2010,Unknown,Doda,1,0,True
+2010,Unknown,Jammu,267,0,True
+2010,Unknown,Kathua,39,0,True
+2010,Unknown,Kishtwar,5,0,True
+2010,Unknown,Poonch,254,0,True
+2010,Unknown,Rajouri,159,0,True
+2010,Unknown,Ramban,2,0,True
+2010,Unknown,Reasi,5,0,True
+2010,Unknown,Samba,4,0,True
+2010,Unknown,Udhampur,27,0,True
+2010,Unknown,Umcp Jammu#,37,0,True
+2010,Unknown,Saraikela Kharsawan,5937,0,True
+2010,Unknown,A.M.U. Kembhavi#,64,0,True
+2010,Unknown,Thiruvananthapuram,138,1,True
+2010,Unknown,Khargone,2452,1,True
+2010,Unknown,Imphal Urban#,27,0,True
+2010,Unknown,Saiha,833,1,True
+2010,Unknown,Pondicherry,167,0,True
+2010,Unknown,Nagar,63,0,True
+2010,Unknown,Aranthangi#,6,0,True
+2010,Unknown,Cheyyar#,96,0,True
+2010,Unknown,Dharapuram#,0,0,True
+2010,Unknown,Kanchipuram,21,0,True
+2010,Unknown,Kovilpatti#,185,0,True
+2010,Unknown,Palani#,10,0,True
+2010,Unknown,Paramakudi#,265,0,True
+2010,Unknown,Ramanathapuram,2988,0,True
+2010,Unknown,Sivakasi#,2,0,True
+2010,Unknown,Tuticorin,291,0,True
+2010,Unknown,Villupuram,79,0,True
+2010,Unknown,Kushi Nagar,138,0,True
+2010,Unknown,Maharajganj,23,0,True
+2010,Unknown,Sant Kabeer Nagar,32,0,True
+2010,Unknown,Shravasti,67,0,True
+2010,Unknown,Siddharth Nagar,343,0,True
+2010,Unknown,Udam Singh Nagar,379,0,True
+2010,Unknown,Dinajpur Dakshin,291,0,True
+2010,Unknown,Dinajpur Uttar,150,0,True
+2010,Unknown,Kmuho#,4546,0,True
+2010,Unknown,Maldah,1888,6,True
+2010,Unknown,Medinipur East,1078,0,True
+2010,Unknown,Medinipur West,3550,2,True
+2010,Unknown,South Andamans,349,0,True
+2011,Unknown,Visakhapatanam,8977,4,True
+2011,Unknown,Lower Dibang Valley,1664,1,True
+2011,Unknown,Pashchim Champaran,0,0,True
+2011,Unknown,Dantewada,25007,8,True
+2011,Unknown,Kabirdham,2098,0,True
+2011,Unknown,Kanker,7741,1,True
+2011,Unknown,Haveli,5150,0,True
+2011,Unknown,New Delhi,413,0,True
+2011,Unknown,Dohad,8693,0,True
+2011,Unknown,Gandhinagar Mc#,973,0,True
+2011,Unknown,Doda,2,0,True
+2011,Unknown,Jammu,305,0,True
+2011,Unknown,Kathua,98,0,True
+2011,Unknown,Kishtwar,12,0,True
+2011,Unknown,Poonch,264,0,True
+2011,Unknown,Rajouri,258,0,True
+2011,Unknown,Ramban,1,0,True
+2011,Unknown,Reasi,16,0,True
+2011,Unknown,Samba,22,0,True
+2011,Unknown,Udhampur,38,0,True
+2011,Unknown,Umcp Jammu#,73,0,True
+2011,Unknown,Saraikela Kharsawan,4637,0,True
+2011,Unknown,A.M.U. Kembhavi#,39,0,True
+2011,Unknown,Thiruvananthapuram,99,0,True
+2011,Unknown,Khargone,3252,1,True
+2011,Unknown,Imphal Urban#,6,0,True
+2011,Unknown,Saiha,353,3,True
+2011,Unknown,Pondicherry,142,1,True
+2011,Unknown,Nagar,89,0,True
+2011,Unknown,Aranthangi#,5,0,True
+2011,Unknown,Cheyyar#,75,0,True
+2011,Unknown,Dharapuram#,0,0,True
+2011,Unknown,Kanchipuram,32,0,True
+2011,Unknown,Kovilpatti#,137,0,True
+2011,Unknown,Palani#,11,0,True
+2011,Unknown,Paramakudi#,472,0,True
+2011,Unknown,Ramanathapuram,3472,0,True
+2011,Unknown,Sivakasi#,3,0,True
+2011,Unknown,Tuticorin,166,0,True
+2011,Unknown,Villupuram,83,0,True
+2011,Unknown,Kushi Nagar,142,0,True
+2011,Unknown,Maharajganj,34,0,True
+2011,Unknown,Sant Kabeer Nagar,37,0,True
+2011,Unknown,Shravasti,66,0,True
+2011,Unknown,Siddharth Nagar,339,0,True
+2011,Unknown,Udam Singh Nagar,218,0,True
+2011,Unknown,Dinajpur Dakshin,177,0,True
+2011,Unknown,Dinajpur Uttar,134,0,True
+2011,Unknown,Kmuho#,1489,0,True
+2011,Unknown,Maldah,2126,1,True
+2011,Unknown,Medinipur East,691,0,True
+2011,Unknown,Medinipur West,1553,1,True
+2011,Unknown,South Andamans,344,0,True
+2012,Unknown,Visakhapatanam,7474,1,True
+2012,Unknown,Lower Dibang Valley,792,0,True
+2012,Unknown,Pashchim Champaran,0,0,True
+2012,Unknown,Dantewada,11585,8,True
+2012,Unknown,Kabirdham,1769,5,True
+2012,Unknown,Kanker,6574,0,True
+2012,Unknown,Haveli,4940,1,True
+2012,Unknown,New Delhi,382,0,True
+2012,Unknown,Dohad,4473,0,True
+2012,Unknown,Gandhinagar Mc#,723,0,True
+2012,Unknown,Doda,0,0,True
+2012,Unknown,Jammu,282,0,True
+2012,Unknown,Kathua,114,0,True
+2012,Unknown,Kishtwar,6,0,True
+2012,Unknown,Poonch,205,0,True
+2012,Unknown,Rajouri,123,0,True
+2012,Unknown,Ramban,0,0,True
+2012,Unknown,Reasi,27,0,True
+2012,Unknown,Samba,30,0,True
+2012,Unknown,Udhampur,32,0,True
+2012,Unknown,Umcp Jammu#,42,0,True
+2012,Unknown,Saraikela Kharsawan,5013,0,True
+2012,Unknown,A.M.U. Kembhavi#,10,0,True
+2012,Unknown,Thiruvananthapuram,70,0,True
+2012,Unknown,Khargone,2959,0,True
+2012,Unknown,Imphal Urban#,3,0,True
+2012,Unknown,Saiha,182,1,True
+2012,Unknown,Pondicherry,99,0,True
+2012,Unknown,Nagar,130,0,True
+2012,Unknown,Aranthangi#,8,0,True
+2012,Unknown,Cheyyar#,75,0,True
+2012,Unknown,Dharapuram#,1,0,True
+2012,Unknown,Kanchipuram,11,0,True
+2012,Unknown,Kovilpatti#,83,0,True
+2012,Unknown,Palani#,17,0,True
+2012,Unknown,Paramakudi#,350,0,True
+2012,Unknown,Poonamallee#,9,0,True
+2012,Unknown,Ramanathapuram,3982,0,True
+2012,Unknown,Sivakasi#,11,0,True
+2012,Unknown,Tuticorin,118,0,True
+2012,Unknown,Villupuram,46,0,True
+2012,Unknown,Kushi Nagar,192,0,True
+2012,Unknown,Maharajganj,113,0,True
+2012,Unknown,Sant Kabeer Nagar,22,0,True
+2012,Unknown,Shravasti,29,0,True
+2012,Unknown,Siddharth Nagar,224,0,True
+2012,Unknown,Udam Singh Nagar,150,0,True
+2012,Unknown,Dinajpur Dakshin,133,0,True
+2012,Unknown,Dinajpur Uttar,245,0,True
+2012,Unknown,Kmuho#,863,0,True
+2012,Unknown,Maldah,1665,0,True
+2012,Unknown,Medinipur East,412,0,True
+2012,Unknown,Medinipur West,1783,2,True
+2012,Unknown,South Andamans,284,0,True
+2013,Unknown,Visakhapatanam,5950,0,True
+2013,Unknown,Lower Dibang Valley,644,0,True
+2013,Unknown,Pashchim Champaran,0,0,True
+2013,Unknown,Dantewada,10786,2,True
+2013,Unknown,Kabirdham,2906,0,True
+2013,Unknown,Kanker,5444,0,True
+2013,Unknown,Haveli,1778,0,True
+2013,Unknown,New Delhi,353,0,True
+2013,Unknown,Dohad,5117,0,True
+2013,Unknown,Gandhinagar Mc#,414,0,True
+2013,Unknown,Doda,0,0,True
+2013,Unknown,Jammu,226,0,True
+2013,Unknown,Kathua,99,0,True
+2013,Unknown,Kishtwar,0,0,True
+2013,Unknown,Poonch,129,0,True
+2013,Unknown,Rajouri,145,0,True
+2013,Unknown,Ramban,4,0,True
+2013,Unknown,Reasi,12,0,True
+2013,Unknown,Samba,14,0,True
+2013,Unknown,Udhampur,27,0,True
+2013,Unknown,Umcp Jammu#,42,0,True
+2013,Unknown,Saraikela Kharsawan,3839,0,True
+2013,Unknown,A.M.U. Kembhavi#,3,0,True
+2013,Unknown,Thiruvananthapuram,124,0,True
+2013,Unknown,Khargone,3288,0,True
+2013,Unknown,Imphal Urban#,0,0,True
+2013,Unknown,Saiha,488,1,True
+2013,Unknown,Pondicherry,87,0,True
+2013,Unknown,Nagar,88,0,True
+2013,Unknown,Aranthangi#,12,0,True
+2013,Unknown,Cheyyar#,69,0,True
+2013,Unknown,Dharapuram#,0,0,True
+2013,Unknown,Kanchipuram,4,0,True
+2013,Unknown,Kovilpatti#,120,0,True
+2013,Unknown,Palani#,16,0,True
+2013,Unknown,Paramakudi#,308,0,True
+2013,Unknown,Poonamallee#,0,0,True
+2013,Unknown,Ramanathapuram,2208,0,True
+2013,Unknown,Sivakasi#,1,0,True
+2013,Unknown,Tuticorin,147,0,True
+2013,Unknown,Villupuram,47,0,True
+2013,Unknown,Kushi Nagar,109,0,True
+2013,Unknown,Maharajganj,30,0,True
+2013,Unknown,Sant Kabeer Nagar,43,0,True
+2013,Unknown,Shravasti,21,0,True
+2013,Unknown,Siddharth Nagar,218,0,True
+2013,Unknown,Udam Singh Nagar,160,0,True
+2013,Unknown,Dinajpur Dakshin,121,0,True
+2013,Unknown,Dinajpur Uttar,124,0,True
+2013,Unknown,Kmuho#,530,0,True
+2013,Unknown,Maldah,1149,1,True
+2013,Unknown,Medinipur East,253,0,True
+2013,Unknown,Medinipur West,747,1,True
+2013,Unknown,Os: (Jharkhand)^,0,1,True
+2013,Unknown,South Andamans,109,0,True
+2014,Unknown,Visakhapatanam,8410,0,True
+2014,Unknown,Lower Dibang Valley,680,4,True
+2014,Unknown,Pashchim Champaran,0,0,True
+2014,Unknown,Dantewada,16256,3,True
+2014,Unknown,Kabirdham,5014,0,True
+2014,Unknown,Kanker,7877,0,True
+2014,Unknown,Haveli,669,1,True
+2014,Unknown,New Delhi,98,0,True
+2014,Unknown,Dohad,4475,0,True
+2014,Unknown,Gandhinagar Mc#,296,0,True
+2014,Unknown,Doda,0,0,True
+2014,Unknown,Jammu,101,0,True
+2014,Unknown,Kathua,42,0,True
+2014,Unknown,Kishtwar,0,0,True
+2014,Unknown,Poonch,48,0,True
+2014,Unknown,Rajouri,53,0,True
+2014,Unknown,Ramban,0,0,True
+2014,Unknown,Reasi,3,0,True
+2014,Unknown,Samba,15,0,True
+2014,Unknown,Udhampur,9,0,True
+2014,Unknown,Umcp Jammu#,20,0,True
+2014,Unknown,Saraikela Kharsawan,3068,1,True
+2014,Unknown,A.M.U. Kembhavi#,4,0,True
+2014,Unknown,Thiruvananthapuram,82,0,True
+2014,Unknown,Khargone,2203,0,True
+2014,Unknown,Imphal Urban#,2,0,True
+2014,Unknown,Saiha,822,0,True
+2014,Unknown,Pondicherry,50,0,True
+2014,Unknown,Nagar,29,0,True
+2014,Unknown,Os: (Gujarat)^,0,1,True
+2014,Unknown,Aranthangi#,252,0,True
+2014,Unknown,Cheyyar#,42,0,True
+2014,Unknown,Kanchipuram,9,0,True
+2014,Unknown,Kovilpatti#,103,0,True
+2014,Unknown,Palani#,13,0,True
+2014,Unknown,Paramakudi#,508,0,True
+2014,Unknown,Poonamallee#,0,0,True
+2014,Unknown,Ramanathapuram,1357,0,True
+2014,Unknown,Sivakasi#,3,0,True
+2014,Unknown,Tuticorin,97,0,True
+2014,Unknown,Villupuram,37,0,True
+2014,Unknown,Kushi Nagar,82,0,True
+2014,Unknown,Maharajganj,21,0,True
+2014,Unknown,Sant Kabeer Nagar,48,0,True
+2014,Unknown,Shravasti,35,0,True
+2014,Unknown,Siddharth Nagar,258,0,True
+2014,Unknown,Udam Singh Nagar,103,0,True
+2014,Unknown,Dinajpur Dakshin,246,0,True
+2014,Unknown,Dinajpur Uttar,190,0,True
+2014,Unknown,Kmuho#,280,0,True
+2014,Unknown,Maldah,1274,3,True
+2014,Unknown,Medinipur East,283,0,True
+2014,Unknown,Os: (Jharkhand)^,0,1,True
+2014,Unknown,South Andamans,128,0,True
+2015,Unknown,Visakhapatanam,10197,0,True
+2015,Unknown,Lower Dibang Valley,467,4,True
+2015,Unknown,Pashchim Champaran,0,0,True
+2015,Unknown,Dantewada,17955,3,True
+2015,Unknown,Kabirdham,7175,0,True
+2015,Unknown,Kanker,12818,0,True
+2015,Unknown,Haveli,418,0,True
+2015,Unknown,New Delhi,54,0,True
+2015,Unknown,Dohad,4344,0,True
+2015,Unknown,Gandhinagar Mc#,114,0,True
+2015,Unknown,Doda,2,0,True
+2015,Unknown,Jammu,74,0,True
+2015,Unknown,Kathua,36,0,True
+2015,Unknown,Kishtwar,0,0,True
+2015,Unknown,Poonch,42,0,True
+2015,Unknown,Rajouri,20,0,True
+2015,Unknown,Ramban,2,0,True
+2015,Unknown,Reasi,9,0,True
+2015,Unknown,Samba,8,0,True
+2015,Unknown,Udhampur,3,0,True
+2015,Unknown,Umcp Jammu#,20,0,True
+2015,Unknown,Saraikela Kharsawan,2913,0,True
+2015,Unknown,A.M.U. Kembhavi#,7,0,True
+2015,Unknown,Thiruvananthapuram,135,0,True
+2015,Unknown,Khargone,2362,0,True
+2015,Unknown,Imphal Urban#,3,0,True
+2015,Unknown,Saiha,1087,3,True
+2015,Unknown,Pondicherry,41,0,True
+2015,Unknown,Nagar,58,0,True
+2015,Unknown,Aranthangi#,50,0,True
+2015,Unknown,Cheyyar#,20,0,True
+2015,Unknown,Kanchipuram,7,0,True
+2015,Unknown,Kovilpatti#,24,0,True
+2015,Unknown,Palani#,7,0,True
+2015,Unknown,Paramakudi#,43,0,True
+2015,Unknown,Poonamallee#,2,0,True
+2015,Unknown,Ramanathapuram,676,0,True
+2015,Unknown,Sivakasi#,0,0,True
+2015,Unknown,Tuticorin,117,0,True
+2015,Unknown,Villupuram,31,0,True
+2015,Unknown,Kushi Nagar,116,0,True
+2015,Unknown,Maharajganj,5,0,True
+2015,Unknown,Sant Kabeer Nagar,34,0,True
+2015,Unknown,Shravasti,25,0,True
+2015,Unknown,Siddharth Nagar,250,0,True
+2015,Unknown,Udam Singh Nagar,101,0,True
+2015,Unknown,Dinajpur Dakshin,335,0,True
+2015,Unknown,Dinajpur Uttar,164,0,True
+2015,Unknown,Kmuho#,155,1,True
+2015,Unknown,Maldah,1685,0,True
+2015,Unknown,Medinipur East,214,0,True
+2015,Unknown,South Andamans,100,0,True
+2016,Unknown,Visakhapatanam,6492,0,True
+2016,Unknown,Lower Dibang Valley,252,0,True
+2016,Unknown,Pashchim Champaran,0,0,True
+2016,Unknown,Kabirdham,9194,3,True
+2016,Unknown,Kanker,6554,0,True
+2016,Unknown,Haveli,375,0,True
+2016,Unknown,New Delhi,31,0,True
+2016,Unknown,Dohad,2819,0,True
+2016,Unknown,Gandhinagar Mc#,100,0,True
+2016,Unknown,Doda,1,0,True
+2016,Unknown,Jammu,85,0,True
+2016,Unknown,Kathua,25,0,True
+2016,Unknown,Kishtwar,0,0,True
+2016,Unknown,Poonch,53,0,True
+2016,Unknown,Rajouri,34,0,True
+2016,Unknown,Ramban,1,0,True
+2016,Unknown,Reasi,6,0,True
+2016,Unknown,Samba,8,0,True
+2016,Unknown,Udhampur,6,0,True
+2016,Unknown,Umcp Jammu#,23,0,True
+2016,Unknown,Saraikela Kharsawan,5718,0,True
+2016,Unknown,A.M.U. Kembhavi#,0,0,True
+2016,Unknown,Thiruvananthapuram,114,1,True
+2016,Unknown,Khargone,1142,0,True
+2016,Unknown,Imphal Urban#,0,0,True
+2016,Unknown,Saiha,323,0,True
+2016,Unknown,Pondicherry,53,0,True
+2016,Unknown,Nagar,109,0,True
+2016,Unknown,Aranthangi#,4,0,True
+2016,Unknown,Cheyyar#,20,0,True
+2016,Unknown,Kanchipuram,5,0,True
+2016,Unknown,Kovilpatti#,6,0,True
+2016,Unknown,Palani#,6,0,True
+2016,Unknown,Paramakudi#,19,0,True
+2016,Unknown,Poonamallee#,2,0,True
+2016,Unknown,Ramanathapuram,292,0,True
+2016,Unknown,Sivakasi#,7,0,True
+2016,Unknown,Tuticorin,149,0,True
+2016,Unknown,Villupuram,21,0,True
+2016,Unknown,Kushi Nagar,160,0,True
+2016,Unknown,Maharajganj,8,0,True
+2016,Unknown,Sant Kabeer Nagar,49,0,True
+2016,Unknown,Shravasti,28,0,True
+2016,Unknown,Siddharth Nagar,160,0,True
+2016,Unknown,Udam Singh Nagar,19,0,True
+2016,Unknown,Dinajpur Dakshin,336,0,True
+2016,Unknown,Dinajpur Uttar,130,0,True
+2016,Unknown,Kmuho#,180,0,True
+2016,Unknown,Maldah,1815,1,True
+2016,Unknown,Medinipur East,322,0,True
+2016,Unknown,South Andamans,72,0,True
+2017,Unknown,Visakhapatanam,4836,0,True
+2017,Unknown,Lower Dibang Valley,58,0,True
+2017,Unknown,Pashchim Champaran,0,0,True
+2017,Unknown,Kabirdham,4079,5,True
+2017,Unknown,Kanker,7400,0,True
+2017,Unknown,Haveli,290,0,True
+2017,Unknown,New Delhi,577,0,True
+2017,Unknown,Dohad,1701,0,True
+2017,Unknown,Gandhinagar Mc#,179,0,True
+2017,Unknown,Doda,2,0,True
+2017,Unknown,Jammu,39,0,True
+2017,Unknown,Kathua,33,0,True
+2017,Unknown,Kishtwar,0,0,True
+2017,Unknown,Poonch,21,0,True
+2017,Unknown,Rajouri,85,0,True
+2017,Unknown,Ramban,2,0,True
+2017,Unknown,Reasi,8,0,True
+2017,Unknown,Samba,5,0,True
+2017,Unknown,Udhampur,8,0,True
+2017,Unknown,Umcp Jammu#,23,0,True
+2017,Unknown,Saraikela Kharsawan,4939,0,True
+2017,Unknown,A.M.U. Kembhavi#,0,0,True
+2017,Unknown,Thiruvananthapuram,70,1,True
+2017,Unknown,Khargone,428,0,True
+2017,Unknown,Mumbai,6019,7,True
+2017,Unknown,Imphal Urban#,0,0,True
+2017,Unknown,Saiha,192,0,True
+2017,Unknown,Pondicherry,48,0,True
+2017,Unknown,Nagar,128,0,True
+2017,Unknown,Aranthangi#,1,0,True
+2017,Unknown,Cheyyar#,23,0,True
+2017,Unknown,Kanchipuram,5,0,True
+2017,Unknown,Kovilpatti#,2,0,True
+2017,Unknown,Palani#,5,0,True
+2017,Unknown,Paramakudi#,7,0,True
+2017,Unknown,Poonamallee#,3,0,True
+2017,Unknown,Ramanathapuram,227,0,True
+2017,Unknown,Sivakasi#,5,0,True
+2017,Unknown,Tuticorin,77,0,True
+2017,Unknown,Villupuram,18,0,True
+2017,Unknown,Bhupalapally,568,0,True
+2017,Unknown,Jogulamba Gadwal,3,0,True
+2017,Unknown,Asifabad,161,0,True
+2017,Unknown,Medchal Malkajgiri,55,0,True
+2017,Unknown,Yadadri Bhuvanagiri,3,0,True
+2017,Unknown,Kushi Nagar,88,0,True
+2017,Unknown,Maharajganj,10,0,True
+2017,Unknown,Sant Kabeer Nagar,42,0,True
+2017,Unknown,Shravasti,30,0,True
+2017,Unknown,Siddharth Nagar,182,0,True
+2017,Unknown,Udam Singh Nagar,31,0,True
+2017,Unknown,Dinajpur Dakshin,234,0,True
+2017,Unknown,Dinajpur Uttar,406,1,True
+2017,Unknown,Kmuho#,67,0,True
+2017,Unknown,Maldah,1095,0,True
+2017,Unknown,Medinipur East,453,0,True
+2017,Unknown,South Andamans,39,0,True
+2018,Unknown,Visakhapatanam,2252,0,True
+2018,Unknown,Lower Dibang Valley,11,0,True
+2018,Unknown,Pashchim Champaran,7,0,True
+2018,Unknown,Dantewada,13180,9,True
+2018,Unknown,Kabirdham,949,0,True
+2018,Unknown,Kanker,2510,0,True
+2018,Unknown,Haveli,221,1,True
+2018,Unknown,New Delhi,473,0,True
+2018,Unknown,Dohad,630,0,True
+2018,Unknown,Gandhinagar Mc#,142,0,True
+2018,Unknown,Doda,0,0,True
+2018,Unknown,Jammu,31,0,True
+2018,Unknown,Kathua,23,0,True
+2018,Unknown,Kishtwar,0,0,True
+2018,Unknown,Poonch,23,0,True
+2018,Unknown,Rajouri,42,0,True
+2018,Unknown,Ramban,0,0,True
+2018,Unknown,Reasi,2,0,True
+2018,Unknown,Samba,0,0,True
+2018,Unknown,Udhampur,15,0,True
+2018,Unknown,Umcp Jammu#,32,0,True
+2018,Unknown,Saraikela Kharsawan,3731,0,True
+2018,Unknown,A.M.U. Kembhavi#,2,0,True
+2018,Unknown,Thiruvananthapuram,69,0,True
+2018,Unknown,Khargone,173,0,True
+2018,Unknown,Mumbai,5051,2,True
+2018,Unknown,Imphal Urban#,0,0,True
+2018,Unknown,Saiha,103,0,True
+2018,Unknown,Pondicherry,50,0,True
+2018,Unknown,Nagar,96,0,True
+2018,Unknown,Aranthangi#,1,0,True
+2018,Unknown,Cheyyar#,9,0,True
+2018,Unknown,Kanchipuram,6,0,True
+2018,Unknown,Kovilpatti#,3,0,True
+2018,Unknown,Palani#,5,0,True
+2018,Unknown,Paramakudi#,6,0,True
+2018,Unknown,Poonamallee#,2,0,True
+2018,Unknown,Ramanathapuram,49,0,True
+2018,Unknown,Sivakasi#,4,0,True
+2018,Unknown,Tuticorin,25,0,True
+2018,Unknown,Villupuram,43,0,True
+2018,Unknown,Bhupalapally,545,0,True
+2018,Unknown,Jogulamba Gadwal,7,0,True
+2018,Unknown,Asifabad,70,0,True
+2018,Unknown,Medchal Malkajgiri,35,0,True
+2018,Unknown,Yadadri Bhuvanagiri,1,0,True
+2018,Unknown,Kushi Nagar,86,0,True
+2018,Unknown,Maharajganj,20,0,True
+2018,Unknown,Sant Kabeer Nagar,7,0,True
+2018,Unknown,Shravasti,25,0,True
+2018,Unknown,Siddharth Nagar,124,0,True
+2018,Unknown,Udam Singh Nagar,50,0,True
+2018,Unknown,Bishnupur Hd#,85,0,True
+2018,Unknown,Dinajpur Dakshin,284,0,True
+2018,Unknown,Dinajpur Uttar,189,1,True
+2018,Unknown,Kmuho#,40,0,True
+2018,Unknown,Maldah,724,0,True
+2018,Unknown,Medinipur East,201,0,True
+2018,Unknown,Medinipur West,175,0,True
+2018,Unknown,South Andamans,14,0,True
+2019,Unknown,Visakhapatanam,1121,0,True
+2019,Unknown,Lower Dibang Valley,2,0,True
+2019,Unknown,Pashchim Champaran,5,0,True
+2019,Unknown,Kabirdham,461,0,True
+2019,Unknown,Kanker,2748,0,True
+2019,Unknown,Haveli,73,0,True
+2019,Unknown,New Delhi,713,0,True
+2019,Unknown,Dohad,361,0,True
+2019,Unknown,Gandhinagar Mc#,161,0,True
+2019,Unknown,Charki Dadri,13,0,True
+2019,Unknown,Doda,1,0,True
+2019,Unknown,Jammu,11,0,True
+2019,Unknown,Kathua,23,0,True
+2019,Unknown,Kishtwar,0,0,True
+2019,Unknown,Poonch,17,0,True
+2019,Unknown,Rajouri,22,0,True
+2019,Unknown,Ramban,1,0,True
+2019,Unknown,Reasi,5,0,True
+2019,Unknown,Samba,2,0,True
+2019,Unknown,Udhampur,7,0,True
+2019,Unknown,Umcp Jammu#,16,0,True
+2019,Unknown,Saraikela Kharsawan,1075,0,True
+2019,Unknown,A.M.U. Kembhavi#,0,0,True
+2019,Unknown,Thiruvananthapuram,44,0,True
+2019,Unknown,Khargone,79,0,True
+2019,Unknown,Mumbai,4357,0,True
+2019,Unknown,Imphal Urban#,0,0,True
+2019,Unknown,Saiha,279,0,True
+2019,Unknown,Pondicherry,14,0,True
+2019,Unknown,Nagar,162,0,True
+2019,Unknown,Aranthangi#,0,0,True
+2019,Unknown,Cheyyar#,10,0,True
+2019,Unknown,Kanchipuram,13,0,True
+2019,Unknown,Kovilpatti#,2,0,True
+2019,Unknown,Palani#,1,0,True
+2019,Unknown,Paramakudi#,11,0,True
+2019,Unknown,Poonamallee#,6,0,True
+2019,Unknown,Ramanathapuram,40,0,True
+2019,Unknown,Sivakasi#,1,0,True
+2019,Unknown,Tuticorin,21,0,True
+2019,Unknown,Villupuram,5,0,True
+2019,Unknown,Bhupalapally,18,0,True
+2019,Unknown,Jogulamba Gadwal,0,0,True
+2019,Unknown,Asifabad,100,0,True
+2019,Unknown,Medchal Malkajgiri,76,0,True
+2019,Unknown,Yadadri Bhuvanagiri,1,0,True
+2019,Unknown,Kushi Nagar,118,0,True
+2019,Unknown,Maharajganj,13,0,True
+2019,Unknown,Sant Kabeer Nagar,11,0,True
+2019,Unknown,Shravasti,10,0,True
+2019,Unknown,Siddharth Nagar,179,0,True
+2019,Unknown,Udam Singh Nagar,24,0,True
+2019,Unknown,Bishnupur Hd#,77,0,True
+2019,Unknown,Dinajpur Dakshin,79,0,True
+2019,Unknown,Dinajpur Uttar,60,0,True
+2019,Unknown,Maldah,422,0,True
+2019,Unknown,Medinipur East,180,0,True
+2019,Unknown,Medinipur West,112,0,True
+2019,Unknown,South Andamans,8,1,True
+2020,Unknown,Visakhapatanam,1260,0,True
+2020,Unknown,Lower Dibang Valley,0,0,True
+2020,Unknown,Pashchim Champaran,1,0,True
+2020,Unknown,Dantewada,6734,8,True
+2020,Unknown,Marwahi,187,0,True
+2020,Unknown,Kabirdham,136,0,True
+2020,Unknown,Kanker,2458,1,True
+2020,Unknown,New Delhi,135,1,True
+2020,Unknown,Dohad,65,0,True
+2020,Unknown,Gandhinagar Mc#,697,0,True
+2020,Unknown,Charki Dadri,2,0,True
+2020,Unknown,Lahul And Spiti,0,0,True
+2020,Unknown,Doda,0,0,True
+2020,Unknown,Jammu,1,0,True
+2020,Unknown,Kathua,16,0,True
+2020,Unknown,Kishtwar,0,0,True
+2020,Unknown,Poonch,8,0,True
+2020,Unknown,Rajouri,5,0,True
+2020,Unknown,Ramban,0,0,True
+2020,Unknown,Reasi,2,0,True
+2020,Unknown,Samba,0,0,True
+2020,Unknown,Udhampur,3,0,True
+2020,Unknown,Umcp Jammu#,2,0,True
+2020,Unknown,Saraikela Kharsawan,653,0,True
+2020,Unknown,A.M.U. Kembhavi#,0,0,True
+2020,Unknown,Thiruvananthapuram,23,0,True
+2020,Unknown,Khargone,7,0,True
+2020,Unknown,Mumbai,5015,0,True
+2020,Unknown,Imphal Urban#,0,0,True
+2020,Unknown,Saiha,413,0,True
+2020,Unknown,Pondicherry,8,0,True
+2020,Unknown,Nagar,19,0,True
+2020,Unknown,Aranthangi#,0,0,True
+2020,Unknown,Cheyyar#,3,0,True
+2020,Unknown,Kanchipuram,0,0,True
+2020,Unknown,Kovilpatti#,2,0,True
+2020,Unknown,Palani#,0,0,True
+2020,Unknown,Paramakudi#,2,0,True
+2020,Unknown,Poonamallee#,0,0,True
+2020,Unknown,Ramanathapuram,3,0,True
+2020,Unknown,Sivakasi#,0,0,True
+2020,Unknown,Tuticorin,11,0,True
+2020,Unknown,Villupuram,3,0,True
+2020,Unknown,Bhupalapally,56,0,True
+2020,Unknown,Jogulamba Gadwal,0,0,True
+2020,Unknown,Asifabad,78,0,True
+2020,Unknown,Medchal Malkajgiri,8,0,True
+2020,Unknown,Yadadri Bhuvanagiri,1,0,True
+2020,Unknown,Haveli,34,0,True
+2020,Unknown,Kushi Nagar,12,0,True
+2020,Unknown,Maharajganj,0,0,True
+2020,Unknown,Sant Kabeer Nagar,4,0,True
+2020,Unknown,Shravasti,0,0,True
+2020,Unknown,Siddharth Nagar,52,0,True
+2020,Unknown,Udam Singh Nagar,3,0,True
+2020,Unknown,Bishnupur Hd#,25,0,True
+2020,Unknown,Dinajpur Dakshin,10,0,True
+2020,Unknown,Dinajpur Uttar,23,0,True
+2020,Unknown,Maldah,102,0,True
+2020,Unknown,Medinipur East,32,0,True
+2020,Unknown,Medinipur West,17,0,True
+2020,Unknown,South Andamans,4,0,True
+2021,Unknown,Visakhapatanam,841,0,True
+2021,Unknown,Lower Dibang Valley,0,0,True
+2021,Unknown,Mancachar,4,0,True
+2021,Unknown,West Karbi Anglong,1,0,True
+2021,Unknown,Pashchim Champaran,8,0,True
+2021,Unknown,Dantewada,6340,9,True
+2021,Unknown,Marwahi,74,0,True
+2021,Unknown,Kabirdham,664,0,True
+2021,Unknown,Kanker,1411,0,True
+2021,Unknown,New Delhi,167,0,True
+2021,Unknown,Dohad,28,0,True
+2021,Unknown,Gandhinagar Mc#,211,0,True
+2021,Unknown,Charki Dadri,6,0,True
+2021,Unknown,Lahul And Spiti,0,0,True
+2021,Unknown,Doda,1,0,True
+2021,Unknown,Jammu,3,0,True
+2021,Unknown,Kathua,5,0,True
+2021,Unknown,Kishtwar,0,0,True
+2021,Unknown,Poonch,11,0,True
+2021,Unknown,Rajouri,6,0,True
+2021,Unknown,Ramban,0,0,True
+2021,Unknown,Reasi,1,0,True
+2021,Unknown,Samba,1,0,True
+2021,Unknown,Udhampur,1,0,True
+2021,Unknown,Umcp Jammu#,2,0,True
+2021,Unknown,Saraikela Kharsawan,367,0,True
+2021,Unknown,A.M.U. Kembhavi#,0,0,True
+2021,Unknown,Thiruvananthapuram,39,0,True
+2021,Unknown,Khargone,2,0,True
+2021,Unknown,Mumbai,5162,0,True
+2021,Unknown,Imphal Urban#,1,0,True
+2021,Unknown,Saiha,446,0,True
+2021,Unknown,Pondicherry,4,0,True
+2021,Unknown,Nagar,2,0,True
+2021,Unknown,Aranthangi#,0,0,True
+2021,Unknown,Attur#,0,0,True
+2021,Unknown,Cheyyar#,2,0,True
+2021,Unknown,Kanchipuram,3,0,True
+2021,Unknown,Kovilpatti#,4,0,True
+2021,Unknown,Palani#,0,0,True
+2021,Unknown,Paramakudi#,0,0,True
+2021,Unknown,Poonamallee#,0,0,True
+2021,Unknown,Ramanathapuram,1,0,True
+2021,Unknown,Sivakasi#,0,0,True
+2021,Unknown,Tuticorin,12,0,True
+2021,Unknown,Villupuram,2,0,True
+2021,Unknown,Bhupalapally,58,0,True
+2021,Unknown,Jogulamba Gadwal,0,0,True
+2021,Unknown,Asifabad,77,0,True
+2021,Unknown,Medchal Malkajgiri,4,0,True
+2021,Unknown,Yadadri Bhuvanagiri,4,0,True
+2021,Unknown,Haveli,47,0,True
+2021,Unknown,Kushi Nagar,1,0,True
+2021,Unknown,Maharajganj,6,0,True
+2021,Unknown,Sant Kabeer Nagar,11,0,True
+2021,Unknown,Shravasti,2,0,True
+2021,Unknown,Siddharth Nagar,48,0,True
+2021,Unknown,Udam Singh Nagar,0,0,True
+2021,Unknown,Bishnupur Hd#,131,0,True
+2021,Unknown,Dinajpur Dakshin,26,0,True
+2021,Unknown,Dinajpur Uttar,46,0,True
+2021,Unknown,Maldah,238,0,True
+2021,Unknown,Medinipur East,78,0,True
+2021,Unknown,Medinipur West,58,0,True
+2021,Unknown,South Andamans,4,0,True
+2021,Unknown,Alluri Sitharama Raju,830,0,True
+2022,Unknown,Konaseema,0,0,True
+2022,Unknown,Visakhapatanam,53,0,True
+2022,Unknown,Lower Dibang Valley,0,0,True
+2022,Unknown,Mancachar,4,0,True
+2022,Unknown,West Karbi Anglong,2,0,True
+2022,Unknown,Pashchim Champaran,1,0,True
+2022,Unknown,Dantewada,9423,4,True
+2022,Unknown,Marwahi,41,0,True
+2022,Unknown,Kabirdham,496,0,True
+2022,Unknown,Kanker,1106,0,True
+2022,Unknown,New Delhi,263,1,True
+2022,Unknown,Dohad,23,0,True
+2022,Unknown,Gandhinagar Mc#,106,0,True
+2022,Unknown,Charki Dadri,3,0,True
+2022,Unknown,Lahul And Spiti,0,0,True
+2022,Unknown,Doda,0,0,True
+2022,Unknown,Jammu,9,0,True
+2022,Unknown,Kathua,2,0,True
+2022,Unknown,Kishtwar,0,0,True
+2022,Unknown,Poonch,9,0,True
+2022,Unknown,Rajouri,6,0,True
+2022,Unknown,Ramban,0,0,True
+2022,Unknown,Reasi,0,0,True
+2022,Unknown,Samba,1,0,True
+2022,Unknown,Udhampur,2,0,True
+2022,Unknown,Umcp Jammu#,5,0,True
+2022,Unknown,Saraikela Kharsawan,690,0,True
+2022,Unknown,A.M.U. Kembhavi#,0,0,True
+2022,Unknown,Vijayanagar,1,0,True
+2022,Unknown,Thiruvananthapuram,39,0,True
+2022,Unknown,Khargone,3,0,True
+2022,Unknown,Mumbai,3985,2,True
+2022,Unknown,Imphal Urban#,1,0,True
+2022,Unknown,Hills,3,0,True
+2022,Unknown,Saiha,963,0,True
+2022,Unknown,Pondicherry,0,0,True
+2022,Unknown,Nagar,1,0,True
+2022,Unknown,Aranthangi#,0,0,True
+2022,Unknown,Attur#,3,0,True
+2022,Unknown,Cheyyar#,6,0,True
+2022,Unknown,Kanchipuram,9,0,True
+2022,Unknown,Kovilpatti#,3,0,True
+2022,Unknown,Palani#,1,0,True
+2022,Unknown,Paramakudi#,2,0,True
+2022,Unknown,Poonamallee#,3,0,True
+2022,Unknown,Ramanathapuram,4,0,True
+2022,Unknown,Sivakasi#,2,0,True
+2022,Unknown,Tuticorin,10,0,True
+2022,Unknown,Villupuram,7,0,True
+2022,Unknown,Bhupalapally,24,0,True
+2022,Unknown,Jogulamba Gadwal,1,0,True
+2022,Unknown,Asifabad,77,0,True
+2022,Unknown,Medchal Malkajgiri,14,0,True
+2022,Unknown,Yadadri Bhuvanagiri,0,0,True
+2022,Unknown,Haveli,76,0,True
+2022,Unknown,Kushi Nagar,3,0,True
+2022,Unknown,Maharajganj,7,0,True
+2022,Unknown,Sant Kabeer Nagar,6,0,True
+2022,Unknown,Shravasti,2,0,True
+2022,Unknown,Siddharth Nagar,18,0,True
+2022,Unknown,Udam Singh Nagar,0,0,True
+2022,Unknown,Bishnupur Hd#,76,0,True
+2022,Unknown,Dinajpur Dakshin,68,0,True
+2022,Unknown,Dinajpur Uttar,119,0,True
+2022,Unknown,Maldah,490,0,True
+2022,Unknown,Medinipur East,300,0,True
+2022,Unknown,Medinipur West,212,0,True
+2022,Unknown,South Andamans,10,0,True
+2022,Unknown,Alluri Sitharama Raju,3675,0,True
+2023,Unknown,Konaseema,0,0,True
+2023,Unknown,Visakhapatanam,110,0,True
+2023,Unknown,Lower Dibang Valley,3,0,True
+2023,Unknown,Mancachar,4,0,True
+2023,Unknown,West Karbi Anglong,0,0,True
+2023,Unknown,Pashchim Champaran,3,0,True
+2023,Unknown,Dantewada,8574,1,True
+2023,Unknown,Marwahi,27,0,True
+2023,Unknown,Kabirdham,250,0,True
+2023,Unknown,Kanker,888,0,True
+2023,Unknown,Gandai,283,0,True
+2023,Unknown,Ambagarh Chouki,235,0,True
+2023,Unknown,Sarangarh Bilaigarh,23,0,True
+2023,Unknown,New Delhi,344,1,True
+2023,Unknown,Dohad,12,0,True
+2023,Unknown,Gandhinagar Mc#,194,0,True
+2023,Unknown,Charki Dadri,7,0,True
+2023,Unknown,Lahul And Spiti,0,0,True
+2023,Unknown,Doda,2,0,True
+2023,Unknown,Jammu,15,0,True
+2023,Unknown,Kathua,2,0,True
+2023,Unknown,Kishtwar,0,0,True
+2023,Unknown,Poonch,5,0,True
+2023,Unknown,Rajouri,5,0,True
+2023,Unknown,Ramban,0,0,True
+2023,Unknown,Reasi,1,0,True
+2023,Unknown,Samba,1,0,True
+2023,Unknown,Udhampur,3,0,True
+2023,Unknown,Saraikela Kharsawan,917,0,True
+2023,Unknown,A.M.U. Kembhavi#,0,0,True
+2023,Unknown,Vijayanagar,1,0,True
+2023,Unknown,Thiruvananthapuram,30,0,True
+2023,Unknown,Khargone,7,0,True
+2023,Unknown,Mumbai,7319,0,True
+2023,Unknown,Hills,1,0,True
+2023,Unknown,Saiha,1681,0,True
+2023,Unknown,Pondicherry,3,0,True
+2023,Unknown,Nagar,1,0,True
+2023,Unknown,Aranthangi#,0,0,True
+2023,Unknown,Attur#,1,0,True
+2023,Unknown,Cheyyar#,0,0,True
+2023,Unknown,Kanchipuram,4,0,True
+2023,Unknown,Kovilpatti#,1,0,True
+2023,Unknown,Palani#,4,0,True
+2023,Unknown,Paramakudi#,0,0,True
+2023,Unknown,Poonamallee#,2,0,True
+2023,Unknown,Ramanathapuram,3,0,True
+2023,Unknown,Sivakasi#,0,0,True
+2023,Unknown,Tuticorin,12,0,True
+2023,Unknown,Villupuram,8,0,True
+2023,Unknown,Bhupalapally,1,0,True
+2023,Unknown,Jogulamba Gadwal,0,0,True
+2023,Unknown,Asifabad,81,0,True
+2023,Unknown,Medchal Malkajgiri,1,0,True
+2023,Unknown,Yadadri Bhuvanagiri,0,0,True
+2023,Unknown,Haveli,79,0,True
+2023,Unknown,Kushi Nagar,7,0,True
+2023,Unknown,Maharajganj,4,0,True
+2023,Unknown,Sant Kabeer Nagar,2,0,True
+2023,Unknown,Shravasti,5,0,True
+2023,Unknown,Siddharth Nagar,14,0,True
+2023,Unknown,Udam Singh Nagar,0,0,True
+2023,Unknown,Bishnupur Hd#,55,0,True
+2023,Unknown,Dinajpur Dakshin,72,0,True
+2023,Unknown,Dinajpur Uttar,123,0,True
+2023,Unknown,Maldah,447,0,True
+2023,Unknown,Medinipur East,267,0,True
+2023,Unknown,Medinipur West,162,0,True
+2023,Unknown,South Andamans,0,0,True
+2023,Unknown,Alluri Sitharama Raju,577,0,True
+2024,Unknown,Konaseema,0,0,True
+2024,Unknown,Visakhapatanam,29,0,True
+2024,Unknown,Lower Dibang Valley,0,0,True
+2024,Unknown,Bajali,0,0,True
+2024,Unknown,Mancachar,3,0,True
+2024,Unknown,Tamulpur,0,0,True
+2024,Unknown,West Karbi Anglong,0,0,True
+2024,Unknown,Pashchim Champaran,1,0,True
+2024,Unknown,Dantewada,1331,0,True
+2024,Unknown,Marwahi,1,0,True
+2024,Unknown,Kabirdham,69,0,True
+2024,Unknown,Kanker,131,0,True
+2024,Unknown,Gandai,50,0,True
+2024,Unknown,Ambagarh Chouki,51,0,True
+2024,Unknown,Sarangarh Bilaigarh,0,0,True
+2024,Unknown,New Delhi,34,0,True
+2024,Unknown,Dohad,0,0,True
+2024,Unknown,Charki Dadri,2,0,True
+2024,Unknown,Lahul And Spiti,0,0,True
+2024,Unknown,Doda,0,0,True
+2024,Unknown,Ganderbal,0,0,True
+2024,Unknown,Jammu,7,0,True
+2024,Unknown,Kathua,1,0,True
+2024,Unknown,Kishtwar,0,0,True
+2024,Unknown,Kulgam,0,0,True
+2024,Unknown,Kupwara,0,0,True
+2024,Unknown,Poonch,4,0,True
+2024,Unknown,Pulwama,0,0,True
+2024,Unknown,Rajouri,1,0,True
+2024,Unknown,Ramban,0,0,True
+2024,Unknown,Reasi,0,0,True
+2024,Unknown,Samba,1,0,True
+2024,Unknown,Shopian,0,0,True
+2024,Unknown,Srinagar,0,0,True
+2024,Unknown,Udhampur,0,0,True
+2024,Unknown,Saraikela Kharsawan,230,0,True
+2024,Unknown,A.M.U. Kembhavi#,0,0,True
+2024,Unknown,Vijayanagar,0,0,True
+2024,Unknown,Thiruvananthapuram,7,0,True
+2024,Unknown,Khargone,1,0,True
+2024,Unknown,Mumbai,1216,0,True
+2024,Unknown,Imphal Urban#,0,0,True
+2024,Unknown,Hills,0,0,True
+2024,Unknown,Hnahthial,0,0,True
+2024,Unknown,Khawzawl,0,0,True
+2024,Unknown,Saiha,222,0,True
+2024,Unknown,Saitual,0,0,True
+2024,Unknown,Niuland,0,0,True
+2024,Unknown,Noklak,0,0,True
+2024,Unknown,Tseminyu,0,0,True
+2024,Unknown,Malaria Clinic+Ftds#,0,0,True
+2024,Unknown,Pondicherry,5,0,True
+2024,Unknown,Nagar,0,0,True
+2024,Unknown,Aranthangi#,0,0,True
+2024,Unknown,Attur#,0,0,True
+2024,Unknown,Cheyyar#,0,0,True
+2024,Unknown,Kanchipuram,2,0,True
+2024,Unknown,Kovilpatti#,0,0,True
+2024,Unknown,Palani#,0,0,True
+2024,Unknown,Paramakudi#,0,0,True
+2024,Unknown,Poonamallee#,0,0,True
+2024,Unknown,Ramanathapuram,0,0,True
+2024,Unknown,Sivakasi#,0,0,True
+2024,Unknown,Tuticorin,1,0,True
+2024,Unknown,Villupuram,0,0,True
+2024,Unknown,Bhupalapally,0,0,True
+2024,Unknown,Jogulamba Gadwal,0,0,True
+2024,Unknown,Asifabad,8,0,True
+2024,Unknown,Medchal Malkajgiri,0,0,True
+2024,Unknown,Yadadri Bhuvanagiri,0,0,True
+2024,Unknown,Haveli,20,0,True
+2024,Unknown,Kushi Nagar,6,0,True
+2024,Unknown,Maharajganj,1,0,True
+2024,Unknown,Sant Kabeer Nagar,0,0,True
+2024,Unknown,Shravasti,2,0,True
+2024,Unknown,Siddharth Nagar,1,0,True
+2024,Unknown,Udam Singh Nagar,0,0,True
+2024,Unknown,Bishnupur Hd#,0,0,True
+2024,Unknown,Dinajpur Dakshin,13,0,True
+2024,Unknown,Dinajpur Uttar,15,1,True
+2024,Unknown,Maldah,107,0,True
+2024,Unknown,Medinipur East,19,0,True
+2024,Unknown,Medinipur West,11,0,True
