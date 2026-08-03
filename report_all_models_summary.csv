@@ -1,8 +1,0 @@
-model,MAE,RMSE,MAPE_pct,model_group
-District GradientBoosting,183.77603712878556,941.2390274370002,983.3968878630108,District (2022-2024 test)
-District Naive (last year),260.4661538461539,1294.6737010952577,1429.8746855051468,District (2022-2024 test)
-State (leave-one-year-out CV mean),2265.0746254791325,5273.25359738667,,State (CV)
-Combined (stacked/weighted),2201.938393868419,4343.17149112545,640.453716502227,Combined (overlap years)
-"Top-down (state model, direct)",3214.7619440428484,7960.41837711213,169.6639684481558,Combined (overlap years)
-Combined (simple average),3236.9867452083927,7717.293750393558,101.38009397805536,Combined (overlap years)
-"Bottom-up (district model, aggregated)",3386.44189222093,7599.75046422259,50.40878221249595,Combined (overlap years)
